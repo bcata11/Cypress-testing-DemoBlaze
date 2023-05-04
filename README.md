@@ -7,4 +7,6 @@ There are 4 required tests and extra 2 that I perform.
 
 I used faker for the sign up test to come up with a new username and password every time I run the tests.
 
+When you clone the repo, you will need to install npm package, cypress and faker.
+
 
